@@ -2,7 +2,7 @@
 
 Aplikasi Social Media Sederhana yang dibuat oleh Muhammad Rizkiansyah untuk Tugas Project Akhir di Bootcamp Sekolah Beta Intensif. Aplikasi ini akan terus dikembangkan fitur-fiturnya.
 
-**Link Aplikasi** : [https://minisocial.vercel.app](https://minisocial.vercel.app)
+**Link Aplikasi** : **[https://minisocial.vercel.app](https://minisocial.vercel.app)**
 
 ## Tech Stack
 
