@@ -1,68 +1,40 @@
-# frontend
+# MiniSocial - Aplikasi Social Media Sederhana
 
-## Build Setup
+Aplikasi Social Media Sederhana yang dibuat oleh Muhammad Rizkiansyah untuk Tugas Project Akhir di Bootcamp Sekolah Beta Intensif. Aplikasi ini akan terus dikembangkan fitur-fiturnya.
 
-```bash
-# install dependencies
-$ yarn install
+**Link Aplikasi** : [https://minisocial.vercel.app](https://minisocial.vercel.app)
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+## Tech Stack
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+1. Frontend : [Nuxt.js 2](https://v2.nuxt.com) dengan [Vuetify.js](https://v2.vuetifyjs.com)
+2. Backend : [Express.js](https://expressjs.com) dengan [Prisma ORM](https://prisma.io) untuk Connector ke database
+3. Database : [MongoDB Atlas](https://atlas.mongodb.com)
+4. Storage : [Supabase](https://supabase.io)
 
-# generate static project
-$ yarn generate
-```
+## Fitur-fitur
+1. Register, Login, Logout, Hapus Akun Sendiri
+2. Edit Bio dan Username
+3. Upload, melihat, mengedit, dan menghapus postingan
+4. Infinite Scroll untuk post feed
+5. Mengunjungi akun user lain
 
-For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+## Fitur-fitur yang belum ada
+1. Like, Comment, Share postingan
+2. Search akun user lain
+3. Dan masih banyak fitur lain
+4. Upload postingan format video
+5. Dan banyak fitur lain
 
-## Special Directories
+## Thanks to :
+1. Allah SWT atas segala rahmat-Nya
+2. Orang tua dan keluarga yang selalu support
+3. Alkademi yang telah memfasilitasi program ini
+4. Pak Syamsul selaku mentor, para mentor tamu, para asisten mentor, dan semua rekan seperjuangan yang sama-sama belajar di program ini
+5. Laptop kentang yang selalu setia menemani :v
 
-You can create the following extra directories, some of which have special behaviors. Only `pages` is required; you can delete them if you don't want to use their functionality.
-
-### `assets`
-
-The assets directory contains your uncompiled assets such as Stylus or Sass files, images, or fonts.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/assets).
-
-### `components`
-
-The components directory contains your Vue.js components. Components make up the different parts of your page and can be reused and imported into your pages, layouts and even other components.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/components).
-
-### `layouts`
-
-Layouts are a great help when you want to change the look and feel of your Nuxt app, whether you want to include a sidebar or have distinct layouts for mobile and desktop.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
-
-### `pages`
-
-This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/get-started/routing).
-
-### `plugins`
-
-The plugins directory contains JavaScript plugins that you want to run before instantiating the root Vue.js Application. This is the place to add Vue plugins and to inject functions or constants. Every time you need to use `Vue.use()`, you should create a file in `plugins/` and add its path to plugins in `nuxt.config.js`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/plugins).
-
-### `static`
-
-This directory contains your static files. Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/static).
-
-### `store`
-
-This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+## Link Profil Saya
+- Website : [muhreezky.vercel.app](https://muhreezky.vercel.app)
+- Instagram : [@muh.reezky](https://instagram.com/muh.reezky)
+- Github : [@muhreezky](https://github.com/muhreezky)
+- Linkedin : [Muhammad Rizkiansyah](https://linkedin.com/in/muhreezky)
+- Trakteer : [Donate dulu seratus :v](https://trakteer.id/muh_reezky)
